@@ -9,7 +9,7 @@ A basic notepad app using *Python Tkinter GUI* — supports text editing, saving
 - ✅ Create, Open, Save files  
 - 📝 Text editing area with scrollbar  
 - 🖱 Menu bar with file options  
-- 🎨 Icon support  
+- 🎨 Icon support 
 
 ---
 
